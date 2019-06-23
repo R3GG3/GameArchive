@@ -1,0 +1,10 @@
+C:\Users\konra\source\repos\GameArchive\GameArchive\bin\Debug\GameArchive.exe.config
+C:\Users\konra\source\repos\GameArchive\GameArchive\bin\Debug\GameArchive.exe
+C:\Users\konra\source\repos\GameArchive\GameArchive\bin\Debug\GameArchive.pdb
+C:\Users\konra\source\repos\GameArchive\GameArchive\obj\Debug\GameArchive.csprojAssemblyReference.cache
+C:\Users\konra\source\repos\GameArchive\GameArchive\obj\Debug\GameArchive.Form1.resources
+C:\Users\konra\source\repos\GameArchive\GameArchive\obj\Debug\GameArchive.Properties.Resources.resources
+C:\Users\konra\source\repos\GameArchive\GameArchive\obj\Debug\GameArchive.csproj.GenerateResource.cache
+C:\Users\konra\source\repos\GameArchive\GameArchive\obj\Debug\GameArchive.csproj.CoreCompileInputs.cache
+C:\Users\konra\source\repos\GameArchive\GameArchive\obj\Debug\GameArchive.exe
+C:\Users\konra\source\repos\GameArchive\GameArchive\obj\Debug\GameArchive.pdb
